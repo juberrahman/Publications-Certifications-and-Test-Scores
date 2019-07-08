@@ -1,5 +1,5 @@
 ## Journal articles and Conference Proceedings:
-[1] M. J. Rahman, and B. I. Morshed, "SCC Health: A Framework for Online Estimation of Disease Severity for the Smart and Connected Community",2019 IEEE International Conference on Electro Information Technology.
+[1] M. J. Rahman, and B. I. Morshed, "SCC Health: A Framework for Online Estimation of Disease Severity for the Smart and Connected Community",2019 IEEE International Conference on Electro Information Technology.<br/>
 [2] M. J. Rahman, R. Mahajan, and B. I. Morshed, "Exacerbation in Obstructive Sleep Apnea: Early Detection and Continuous Monitoring from Single Channel EEG Using Quadratic Discriminant Analysis", International IEEE/EMBS Conference on Neural Engineering (NER), 2019 (Accepted).<br/>
 [3] M. J. Rahman and B. I. Morshed, "Improving Accuracy of Inkjet Printed Core Body WRAP Temperature Sensor Using Random Forest Regression Implemented with an Android App", Special session: Wearable, Implants, and Body-Area Networks (BK), National Radio Science Meeting, Boulder, CO, Jan. 9-12, 2019.<br/>
 [4] M. J. Rahman, R. Mahajan, and B. I. Morshed, "Severity Classification of Obstructive Sleep Apnea Using Only Heart Rate Variability Measures with an Ensemble Classifier", IEEE conf Biomedical and Health Informatics (BHI), Las Vegas, NV, pp. 33-36, 2018.<br/>
