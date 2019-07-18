@@ -10,10 +10,10 @@ The 9th International Conference on Ambient Computing, Applications, Services an
 The 4th IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies, Washington, D.C., September 2019. 
 
 [**EIT 2019**]<br/>
-                  M. J. Rahman, and B. I. Morshed, "SCC Health: A Framework for Online Estimation of Disease Severity for the Smart and Connected Community",2019 IEEE International Conference on Electro Information Technology.<br/>
+                  M. J. Rahman, and B. I. Morshed, "SCC Health: A Framework for Online Estimation of Disease Severity for the Smart and Connected Community",2019 IEEE International Conference on Electro Information Technology, Brookings, USA, 2019.<br/>
 
 [**NER 2019**]<br/>
-                M. J. Rahman, R. Mahajan, and B. I. Morshed, "Exacerbation in Obstructive Sleep Apnea: Early Detection and Continuous Monitoring from Single Channel EEG Using Quadratic Discriminant Analysis", International IEEE/EMBS Conference on Neural Engineering (NER), 2019 (Accepted).<br/>
+                M. J. Rahman, R. Mahajan, and B. I. Morshed, "Exacerbation in Obstructive Sleep Apnea: Early Detection and Continuous Monitoring from Single Channel EEG Using Quadratic Discriminant Analysis", International IEEE/EMBS Conference on Neural Engineering (NER), San Francisco, USA 2019.<br/>
 
 [**URSI 2019**]<br/>
                 M. J. Rahman and B. I. Morshed, "Improving Accuracy of Inkjet Printed Core Body WRAP Temperature Sensor Using Random Forest Regression Implemented with an Android App", Special session: Wearable, Implants, and Body-Area Networks (BK), National Radio Science Meeting, Boulder, CO, Jan. 9-12, 2019.<br/>
