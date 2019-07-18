@@ -1,10 +1,10 @@
 ## Journal articles and Conference Proceedings:
-[<b>NextTech 2019<b>]
+[<b>NextTech 2019<b>]<br/>
 Md Juber Rahman, Ebrahim Nemati, Md Mahbubur Rahman, Viswam Nathan, Korosh Vatanparvar and Jilong Kuang
 "Efficient Online Cough Detection with a Minimal Feature Set Using Smartphones for Automated Assessment of Pulmonary Patients" 
 The 9th International Conference on Ambient Computing, Applications, Services and Technologies, Porto, Portugal, September 2019.
 
-[<b>Smart Health Journal<b>]
+[<b>Smart Health Journal<b>]<br/>
 Md Juber Rahman, Ebrahim Nemati, Md Mahbubur Rahman, Viswam Nathan, Korosh Vatanparvar and Jilong Kuang
 "Automated Assessment of Pulmonary Patients using Heart Rate Variability from Everyday Wearables" 
 The 4th IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies, Washington, D.C., September 2019. 
