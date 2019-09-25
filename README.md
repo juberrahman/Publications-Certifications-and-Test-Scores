@@ -3,6 +3,7 @@
                   Md Juber Rahman, Ebrahim Nemati, Md Mahbubur Rahman, Viswam Nathan, Korosh Vatanparvar and Jilong Kuang
 "Efficient Online Cough Detection with a Minimal Feature Set Using Smartphones for Automated Assessment of Pulmonary Patients" 
 The 9th International Conference on Ambient Computing, Applications, Services and Technologies, Porto, Portugal, September 2019.
+https://www.thinkmind.org/index.php?view=article&articleid=ambient_2019_1_10_40009
 
 [**Smart Health Journal**]<br/>
                   Md Juber Rahman, Ebrahim Nemati, Md Mahbubur Rahman, Viswam Nathan, Korosh Vatanparvar and Jilong Kuang
