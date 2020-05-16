@@ -11,7 +11,7 @@
 #### Statistical Inference
 * [Statistical Thinking in Python (Part 2)](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_StatisticalThinkinginPython.pdf)
 * [Statistical Thinking in Python (Part 1)](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_StatisticalThinkingPart1.pdf)
-### Data Analysis and Visualization 
+#### Data Analysis and Visualization 
 * [Case Study: Analyzing Police Activity with pandas](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_AnalyzingPoliceActivitywithPandas.pdf)
 * [Exploratory Data Analysis in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_ExploratoryDataAnalysis.pdf)
 * [Data Visualization with Seaborn](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntermediateDataVisualizationwithSeaborn.pdf)
