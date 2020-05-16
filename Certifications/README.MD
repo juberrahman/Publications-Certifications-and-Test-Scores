@@ -12,6 +12,8 @@
 * [Case Study: Analyzing Police Activity with pandas](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_AnalyzingPoliceActivitywithPandas.pdf)
 * [Exploratory Data Analysis in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_ExploratoryDataAnalysis.pdf)
 * [Working with Dates and Times in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_WorkingWithdateandTimes.pdf)
+#### Importing & Cleaning Data
+* [Cleaning Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_CleaningDatainPython.pdf)
 * [Intermediate Importing Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntermediateImportingData.pdf)
 * [Introduction to Importing Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntroductionImportingdata.pdf)
 #### Python Programming
