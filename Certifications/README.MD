@@ -1,5 +1,6 @@
 
 ## [Data Scientist with Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_DataScientistwithPython.pdf "Project Presentation PDF"), DataCamp
+#### Machine Learning
 * [Case Study: School Budgeting with Machine Learning in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_CaseStudy-SchoolBudgeting.pdf)
 * [Cluster Analysis in Python
 ](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_ClusterAnalysisinPython.pdf)
@@ -7,11 +8,19 @@
 * [Machine Learning with Tree-Based Models in Python
 ](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_MachineLearningwithTreeBasedModels.pdf)
 * [Supervised Learning with scikit-learn](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_SupervisedLearningwithScikitlearn.pdf)
+#### Statistical Inference
 * [Statistical Thinking in Python (Part 2)](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_StatisticalThinkinginPython.pdf)
 * [Statistical Thinking in Python (Part 1)](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_StatisticalThinkingPart1.pdf)
+### Data Analysis and Visualization 
 * [Case Study: Analyzing Police Activity with pandas](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_AnalyzingPoliceActivitywithPandas.pdf)
 * [Exploratory Data Analysis in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_ExploratoryDataAnalysis.pdf)
+* [Data Visualization with Seaborn](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntermediateDataVisualizationwithSeaborn.pdf)
+* [Data Visualization with Matplotlib](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_DataVisualizationWithMatplotlib.pdf)
+
+#### Data Manipulation with Python
 * [Working with Dates and Times in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_WorkingWithdateandTimes.pdf)
+* [Merging DataFrames with pandas](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_MergingDataFrameswithpandas.pdf)
+* [Manipulating DataFrames with pandas](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_ManipulatingDataFrameswithPandas.pdf)
 #### Importing & Cleaning Data
 * [Cleaning Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_CleaningDatainPython.pdf)
 * [Intermediate Importing Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntermediateImportingData.pdf)
