@@ -14,6 +14,11 @@
 * [Working with Dates and Times in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_WorkingWithdateandTimes.pdf)
 * [Intermediate Importing Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntermediateImportingData.pdf)
 * [Introduction to Importing Data in Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntroductionImportingdata.pdf)
+### Python Programming
+* [Python Data Science Toolbox (Part 2)](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_PythonDataScientistToolbox.pdf)
+* [Python Data Science Toolbox (Part 1)](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_PythonDataScienceToolBox1.pdf)
+* [Intermediate Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntermediatePython.pdf)
+* [Introduction to Python](https://github.com/juberrahman/Publications-Certifications-and-Test-Scores/blob/master/Certifications/pdfs/certificate_IntroductionToPython.pdf)
 
 ## Introduction to Deep Learning, Udacity
 
