@@ -1,3 +1,6 @@
+<span id="badgeCont642"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont642&rid=AAN-4032-2020&size=small"></script></span>
+
+
 ## Journal articles and Conference Proceedings:
 [**NextTech 2019**]<br/>
                   Md Juber Rahman, Ebrahim Nemati, Md Mahbubur Rahman, Viswam Nathan, Korosh Vatanparvar and Jilong Kuang
